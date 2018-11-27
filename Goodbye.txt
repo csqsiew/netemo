@@ -1,1 +1,6 @@
-id	text	page	type	choices	choiceNames	reverse	placeholder	min	max	disabled	checkType	width	height	inline	randomizeNA	Thank you for completing the survey.	1	h4	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0NA	If you have any questions about this survey, please feel free to email us!	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0NA	Brennan Klein - klein.br@northeastern.edu	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0NA	Cynthia Siew - cynsiewsq@gmail.com	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0NA	You may now close this window.	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+id	text	page	type	choices	choiceNames	reverse	placeholder	min	max	disabled	checkType	width	height	inline	randomize
+NA	Thank you for completing the survey.	1	h4	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	Simply refresh the page if you would like to provide more ratings!	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	If you have any questions about this survey, please feel free to email us!	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	Brennan Klein - klein.br@northeastern.edu	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	Cynthia Siew - cynsiewsq@gmail.com	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0

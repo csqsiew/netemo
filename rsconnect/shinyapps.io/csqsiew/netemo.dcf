@@ -5,9 +5,9 @@ account: csqsiew
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 387777
-bundleId: 1665079
+bundleId: 1723771
 url: https://csqsiew.shinyapps.io/netemo/
-when: 1540573755.02944
+when: 1543338950.22946
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: .RData|~$survey.xlsx|filenames.RData|heart_emoji.png|network.png|survey.xlsx|data_possiblestimuli
+ignoredFiles: ~$survey.xlsx|survey.xlsx

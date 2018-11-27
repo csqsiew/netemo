@@ -1,1 +1,31 @@
-id	text	page	type	choices	choiceNames	reverse	placeholder	min	max	disabled	checkType	width	height	inline	randomizenetpic1	x1	1	img	NA	NA	NA	NA	NA	NA	0	NA	250px	250px	NA	0net1	To what extent is this a prototypical network? 	1	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0NA	Not prototypical at all ------------------ Very prototypical	1	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0netpic2	x2	2	img	NA	NA	NA	NA	NA	NA	0	NA	250px	250px	NA	0net2	To what extent is this a prototypical network? 	2	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0NA	Not prototypical at all ------------------ Very prototypical	2	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0netpic3	x3	3	img	NA	NA	NA	NA	NA	NA	0	NA	250px	250px	NA	0net3	To what extent is this a prototypical network? 	3	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0NA	Not prototypical at all ------------------ Very prototypical	3	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0netpic4	x4	4	img	NA	NA	NA	NA	NA	NA	0	NA	250px	250px	NA	0net4	To what extent is this a prototypical network? 	4	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0NA	Not prototypical at all ------------------ Very prototypical	4	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0netpic5	x5	5	img	NA	NA	NA	NA	NA	NA	0	NA	250px	250px	NA	0net5	To what extent is this a prototypical network? 	5	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0NA	Not prototypical at all ------------------ Very prototypical	5	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0netpic6	x6	6	img	NA	NA	NA	NA	NA	NA	0	NA	250px	250px	NA	0net6	To what extent is this a prototypical network? 	6	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0NA	Not prototypical at all ------------------ Very prototypical	6	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0netpic7	x7	7	img	NA	NA	NA	NA	NA	NA	0	NA	250px	250px	NA	0net7	To what extent is this a prototypical network? 	7	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0NA	Not prototypical at all ------------------ Very prototypical	7	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0netpic8	x8	8	img	NA	NA	NA	NA	NA	NA	0	NA	250px	250px	NA	0net8	To what extent is this a prototypical network? 	8	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0NA	Not prototypical at all ------------------ Very prototypical	8	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0netpic9	x9	9	img	NA	NA	NA	NA	NA	NA	0	NA	250px	250px	NA	0net9	To what extent is this a prototypical network? 	9	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0NA	Not prototypical at all ------------------ Very prototypical	9	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0netpic10	x10	10	img	NA	NA	NA	NA	NA	NA	0	NA	250px	250px	NA	0net10	To what extent is this a prototypical network? 	10	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0NA	Not prototypical at all ------------------ Very prototypical	10	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0
+id	text	page	type	choices	choiceNames	reverse	placeholder	min	max	disabled	checkType	width	height	inline	randomize
+netpic1	x1	1	img	NA	NA	NA	NA	NA	NA	0	NA	120px	120px	NA	0
+net1	Would this network make a good emoji?	1	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0
+NA	Strongly Disagree --------------------- Strongly Agree	1	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0
+netpic2	x2	2	img	NA	NA	NA	NA	NA	NA	0	NA	120px	120px	NA	0
+net2	Would this network make a good emoji?	2	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0
+NA	Strongly Disagree --------------------- Strongly Agree	2	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0
+netpic3	x3	3	img	NA	NA	NA	NA	NA	NA	0	NA	120px	120px	NA	0
+net3	Would this network make a good emoji?	3	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0
+NA	Strongly Disagree --------------------- Strongly Agree	3	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0
+netpic4	x4	4	img	NA	NA	NA	NA	NA	NA	0	NA	120px	120px	NA	0
+net4	Would this network make a good emoji?	4	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0
+NA	Strongly Disagree --------------------- Strongly Agree	4	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0
+netpic5	x5	5	img	NA	NA	NA	NA	NA	NA	0	NA	120px	120px	NA	0
+net5	Would this network make a good emoji?	5	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0
+NA	Strongly Disagree --------------------- Strongly Agree	5	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0
+netpic6	x6	6	img	NA	NA	NA	NA	NA	NA	0	NA	120px	120px	NA	0
+net6	Would this network make a good emoji?	6	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0
+NA	Strongly Disagree --------------------- Strongly Agree	6	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0
+netpic7	x7	7	img	NA	NA	NA	NA	NA	NA	0	NA	120px	120px	NA	0
+net7	Would this network make a good emoji?	7	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0
+NA	Strongly Disagree --------------------- Strongly Agree	7	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0
+netpic8	x8	8	img	NA	NA	NA	NA	NA	NA	0	NA	120px	120px	NA	0
+net8	Would this network make a good emoji?	8	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0
+NA	Strongly Disagree --------------------- Strongly Agree	8	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0
+netpic9	x9	9	img	NA	NA	NA	NA	NA	NA	0	NA	120px	120px	NA	0
+net9	Would this network make a good emoji?	9	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0
+NA	Strongly Disagree --------------------- Strongly Agree	9	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0
+netpic10	x10	10	img	NA	NA	NA	NA	NA	NA	0	NA	120px	120px	NA	0
+net10	Would this network make a good emoji?	10	radioButtons	1,2,3,4,5,6,7,8,9	1,2,3,4,5,6,7,8,9	NA	NA	NA	NA	1	is.null	400px	NA	1	0
+NA	Strongly Disagree --------------------- Strongly Agree	10	p	NA	NA	NA	NA	NA	NA	0	NA	400px	250px	NA	0
